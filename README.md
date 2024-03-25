@@ -3,7 +3,7 @@
 </div>
 <img src=")">
 
-##Sobre mi
+<h2>Sobre mi</h2>
 -🔭 Me gusta aprender cosas nuevas.
 -⚡Hago ejercicio.
 -😄Amo los animales.
