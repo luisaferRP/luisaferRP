@@ -1,7 +1,13 @@
 <div align="center">
   <h1 align="center">Hola,soy Luisa Ramirez  👋</h1>
 </div>
-<img src="[https://luisapost.my.canva.site/luii](https://luisapost.my.canva.site/luii)">
+<img src=")">
+
+##Sobre mi
+-🔭 Me gusta aprender cosas nuevas.
+-⚡Hago ejercicio.
+-😄Amo los animales.
+-👯Soy buena trabajando en equipo.
 
 
 <!--
