@@ -4,10 +4,20 @@
 <img src=")">
 
 <h2>Sobre mi</h2>
--🔭 Me gusta aprender cosas nuevas.
--⚡Hago ejercicio.
--😄Amo los animales.
--👯Soy buena trabajando en equipo.
+<ul>
+  <li>
+  🔭 Me gusta aprender cosas nuevas.
+  </li>
+  <li>
+  ⚡Hago ejercicio.
+  </li>
+  <li>
+  😄Amo los animales.
+  </li>
+  <li>
+    👯Soy buena trabajando en equipo.
+  </li>
+</ul>
 
 
 <!--
