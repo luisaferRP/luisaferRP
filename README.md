@@ -5,7 +5,8 @@
 
 <h2>Sobre mi</h2>
 <ul>
-  <li>
+  <li>![women fondo](https://github.com/user-attachments/assets/f351b053-95cc-47c3-8e5f-a7fec005252e)
+
   🔭 Me gusta aprender cosas nuevas.
   </li>
   <li>
