@@ -1,24 +1,37 @@
 <div align="center">
-  <h1 align="center">Hola,soy Luisa Ramirez  👋</h1>
+  <h1>Hola, soy Luisa Ramirez 👋</h1>
 </div>
-<img src=")">
 
-<h2>Sobre mi</h2>
-<ul>
-  <li>![women fondo](https://github.com/user-attachments/assets/f351b053-95cc-47c3-8e5f-a7fec005252e)
+## Sobre mí
 
-  🔭 Me gusta aprender cosas nuevas.
-  </li>
-  <li>
-  ⚡Hago ejercicio.
-  </li>
-  <li>
-  😄Amo los animales.
-  </li>
-  <li>
-    👯Soy buena trabajando en equipo.
-  </li>
-</ul>
+- 🔭 Me gusta aprender cosas nuevas.
+- ⚡ Hago ejercicio.
+- 😄 Amo los animales.
+- 👯 Soy buena trabajando en equipo.
+
+
+## 🚀 Tecnologías y Herramientas
+
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=512BD4)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=181717)
+
+## 📈 Estadísticas de GitHub, recuerda que cada día aprendo más!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisaferRP&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Luisa" />
+</p>
+
+## 📫 Contáctame
+
+- Email: [luisaramiresporras103@gmail.com](mailto:luisaramirresporras103@gmail.com)
+
+## 💬 Lenguajes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaferRP&layout=compact&theme=radical" alt="Lenguajes más usados por Luisa" />
+</p>
 
 
 <!--
