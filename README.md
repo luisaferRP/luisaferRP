@@ -2,6 +2,12 @@
   <h1>Hola, soy Luisa Ramirez 👋</h1>
 </div>
 
+<div align="center">
+  <img height="200" width="550" border-radius:20 src="https://as1.ftcdn.net/v2/jpg/05/62/98/28/1000_F_562982867_quxwUdvhalu0fUgYxMhk8HiIiZGuy3en.jpg" />
+</div>
+
+
+
 ## Sobre mí
 
 - 🔭 Me gusta aprender cosas nuevas.
@@ -12,10 +18,25 @@
 
 ## 🚀 Tecnologías y Herramientas
 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=512BD4)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=181717)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="31" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="31" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="31" alt="canva logo"  />
+</div>
+
+###
 
 ## 📈 Estadísticas de GitHub, recuerda que cada día aprendo más!
 
@@ -23,28 +44,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luisaferRP&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Luisa" />
 </p>
 
-## 📫 Contáctame
-
-- Email: [luisaramiresporras103@gmail.com](mailto:luisaramirresporras103@gmail.com)
-
 ## 💬 Lenguajes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaferRP&layout=compact&theme=radical" alt="Lenguajes más usados por Luisa" />
 </p>
 
+###
 
-<!--
-**luisaferRP/luisaferRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contáctame
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  [luisaramiresporras103@gmail.com](mailto:luisaramirresporras103@gmail.com) />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
