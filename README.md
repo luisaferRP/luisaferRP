@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Luisa Ramirez 👋</h1>
 <!--Banner-->
-<img src="https://raw.githubusercontent.com/luisaferRP/luisaferRP/master/resources/BanneGitH.png?raw=true" alt="Hola,soy Luisa">
+<img src="https://raw.githubusercontent.com/luisaferRP/luisaferRP/master/resources/github-header-banner.png?raw=true" alt="Hola,soy Luisa">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
