@@ -1,10 +1,10 @@
-<h1 align="center">Hola, Soy Luisa Ramirez 👋</h1>
+<h1 align="center">🌐 Exploradora del mundo en todas su versiones🚀 </h1>
 <!--Banner-->
 <img src="https://raw.githubusercontent.com/luisaferRP/luisaferRP/master/resources/github-header-banner.png?raw=true" alt="Hola,soy Luisa">
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <p style="display: inline-block">👨‍💻 Hola!!, Me caracterizo por ser una apasionada del aprendizaje y la mejora continua de mis habilidades. Cada día aprendo más sobre Backend y Frontend, aquí podrás encontrar algunos de mis proyectos.</p>
+    <p style="display: inline-block">👨‍💻 Me caracterizo por ser una apasionada del aprendizaje y la mejora continua de mis habilidades. Cada día aprendo más sobre Backend y Frontend, aquí podrás encontrar algunos de mis proyectos.</p>
   </ul>
 </div>
 
